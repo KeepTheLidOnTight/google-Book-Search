@@ -28,9 +28,9 @@ class Results extends Component {
 
     render() {
         return (
-            <div>
+            <div className="main">
                 {!this.props.books.length ? (
-                    <h1 className="text-center">No Results to Display</h1>
+                    <h1 className="text-center">Nothing Searched Yet</h1>
                 ) : (
                 <div>
                     {this.props.books.map(result => (

@@ -1,3 +1,7 @@
+.container {
+    font-family: 'Times New Roman', Times, serif;
+}
+
 nav {
     background-color: black
 }
@@ -12,9 +16,9 @@ a {
 }
 
 .navbar-brand {
-    font-size: 35px;
+    font-size: 42px;
 }
 
 .nav-item {
-    font-size: 25px;
+    font-size: 20px;
 }
