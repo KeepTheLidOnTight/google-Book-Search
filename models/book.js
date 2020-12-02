@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-
+// create schema for the db
 const bookSchema = new Schema({
     _id: { type: String },
     title: { type: String },
