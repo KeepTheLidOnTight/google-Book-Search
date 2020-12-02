@@ -19,8 +19,9 @@ To install dependencies use
 npm install 
 ```
 # Screenshot:
+Here is a screenshot of the app searching for "The Hunger Games" by Suzanne Collins
 
-![Screenshot](screenshot.png)
+![Screenshot](bookscreenshot.png)
 
 # Credits/Thanks:
 I would personally like to thank a majority of the members of my cohort at the University of Minnesota, including my instructor and teaching assistants.
