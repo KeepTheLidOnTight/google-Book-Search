@@ -30,7 +30,7 @@ class Results extends Component {
         return (
             <div className="main">
                 {!this.props.books.length ? (
-                    <h1 className="text-center">Nothing Searched Yet</h1>
+                    <h1 className="text-center">There's Nothing Here...Yet!</h1>
                 ) : (
                 <div>
                     {this.props.books.map(result => (
