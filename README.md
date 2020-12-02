@@ -1,6 +1,7 @@
 # googlebooksearch
 This application allows the user to search for books using the GoogleBooksAPI. After the user searches for a book they'd like to read, they can then save them for future reference on a seperate page. This app was created using the MERN stack. 
 <br>
+<br>
 See here:
 <br>
 [GitHub Repository](https://github.com/KeepTheLidOnTight/google-Book-Search)
@@ -31,7 +32,7 @@ My personal tutor, Greg was of great aid to me.
 N/A
 
 # Furthur Developments/Edits
-Continue to develop the style of this app. Make changes to the visual elements as well..perhaps adding a pie chart along with a graph for added display.
+Style out more of this app including a footer. Include more Google API functions as well not just the Google Books.
 
 # Questions 
-If you have any questions about the repo, open an issue. You can find more of my work at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
+If you have any questions about the repo, open an issue. If you'd like to discuss future developments, do the same. Otherwise more of my work can be found at [KeepTheLidOnTight](https://github.com/KeepTheLidOnTight/).
